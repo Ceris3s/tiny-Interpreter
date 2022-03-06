@@ -1,7 +1,6 @@
 /*
 
-add the vm 
-
+Implement a virtual machine
 
 
 */
